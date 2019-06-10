@@ -1,5 +1,7 @@
-3D CSS Solar System 
+3D CSS Solar System
 ===================
+
+Forked by me
 
 Solar System data visualisation done in HTML/CSS and a bit of Javascript.
 
