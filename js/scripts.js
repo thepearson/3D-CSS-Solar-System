@@ -11,6 +11,8 @@ $(window).load(function(){
     });
   };
 
+
+
   var setView = function(view) { universe.removeClass().addClass(view); };
 
   $("#toggle-data").click(function(e) {
