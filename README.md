@@ -1,5 +1,4 @@
-3D CSS Solar System
-===================
+# 3D CSS Solar System
 
 Forked by me
 
